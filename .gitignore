@@ -1,5 +1,11 @@
-.idea/
-.gradle/
-.kotlin/
-**/build
-local.properties
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore ACS editor directory
+.acside
+
+# Ignore Kotlin directory
+.kotlin
+
+# Ignore Gradle build output directory
+build
